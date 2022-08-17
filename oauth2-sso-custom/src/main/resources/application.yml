@@ -1,0 +1,8 @@
+server:
+  port: 59901
+
+spring:
+  main:
+    allow-bean-definition-overriding: true
+  application:
+    name: oauth2-oss-custom
